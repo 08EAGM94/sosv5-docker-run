@@ -1,0 +1,7 @@
+URL:
+despues del localhost coloca: SOSv5/service-order-system/home/
+ejemplo: http://localhost:8080/SOSv5/service-order-system/home/
+Para ingresar a la aplicación (vista administrador):
+Usuario: ELENA86
+password: mi_nena
+La aplicación tiene dos vistas (para técnicos <usuarios> y para administradores), sientete libre de crear usuarios con diferentes privilegios en el apartado de configuración de usuarios.
